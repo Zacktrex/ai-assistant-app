@@ -1,0 +1,16 @@
+# UI & App
+streamlit
+
+# Hugging Face Transformers
+transformers
+accelerate  # Optional but improves GPU support
+
+# PyTorch with CUDA (remove +cuXXX if using default CPU)
+torch
+torchvision
+torchaudio
+--extra-index-url https://download.pytorch.org/whl/cu121
+
+# PDF/Text Parsing
+PyMuPDF
+numpy

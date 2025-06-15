@@ -1,0 +1,6 @@
+Product: Smart Thermostat X200
+Features:
+- Wi-Fi connectivity
+- Mobile app for iOS and Android
+- Remote temperature control
+- Energy usage reports

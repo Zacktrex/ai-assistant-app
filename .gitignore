@@ -1,0 +1,42 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Ignore virtual environments
+venv/
+.env/
+.envrc
+
+# Ignore model and tokenizer caches
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Hugging Face cache
+~/.cache/huggingface/
+.cache/
+*.lock
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Streamlit cache
+.streamlit/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs or temporary data
+*.log
+*.tmp
